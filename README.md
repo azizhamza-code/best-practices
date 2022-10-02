@@ -11,7 +11,7 @@
 
 these two problemes lead as to ask : How do you allow for deterministic builds for your Python project without gaining the responsibility of updating versions of sub-dependencies
 
-* pipenv has virtual envireent management built-in
+* pipenv has virtual envirenment management built-in
 
 * and is smart enough to install packages that meet all the requirements without you explicitly specifying sub-dependency versions
 
