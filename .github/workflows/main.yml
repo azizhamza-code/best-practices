@@ -21,9 +21,3 @@ jobs:
     - name: Format code with black
       run: |
           make format
-        
-      
-  
-  
-  
-  
