@@ -16,3 +16,7 @@ these two problemes lead as to ask : How do you allow for deterministic builds f
 * and is smart enough to install packages that meet all the requirements without you explicitly specifying sub-dependency versions
 
 * by contrast to poetry pipenv avoids making assumptions that the application being worked on will support distribution as a pip-installable Python package.
+
+## Project scaffold for python
+
+ 
