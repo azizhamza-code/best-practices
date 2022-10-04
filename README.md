@@ -1,3 +1,6 @@
+[![Python applications test with Github Actions](https://github.com/azizhamza-code/best-practices/actions/workflows/main.yml/badge.svg)](https://github.com/azizhamza-code/best-practices/actions/workflows/main.yml)
+
+
 # best-practices
 
 ## Packaging Tool :  Pipenv = pip + venv
