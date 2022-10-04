@@ -19,4 +19,8 @@ these two problemes lead as to ask : How do you allow for deterministic builds f
 
 ## Project scaffold for python
 
- 
+* using a makefile  to keep track of commands used
+
+* runing a test and linthing our code
+
+* using virtual envirenment
