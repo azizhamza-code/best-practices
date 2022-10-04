@@ -27,3 +27,7 @@ these two problemes lead as to ask : How do you allow for deterministic builds f
 * runing a test and linthing our code
 
 * using virtual envirenment
+
+## Using CI/CD:
+![image](https://user-images.githubusercontent.com/66756919/193797076-c9720766-ea44-40b8-bed8-30786722b60a.png)
+
